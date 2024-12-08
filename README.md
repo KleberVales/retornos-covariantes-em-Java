@@ -16,3 +16,5 @@ Você receberá um código parcialmente implementado no editor, onde o método p
   
 ### Formato de Entrada
 - Uma string representando o nome de um estado (WestBengal, AndhraPradesh, etc.).
+
+### Formato de Saída
