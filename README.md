@@ -18,3 +18,4 @@ Você receberá um código parcialmente implementado no editor, onde o método p
 - Uma string representando o nome de um estado (WestBengal, AndhraPradesh, etc.).
 
 ### Formato de Saída
+- O nome da flor nacional daquele estado (ex.: Lily).
