@@ -15,3 +15,4 @@ Você receberá um código parcialmente implementado no editor, onde o método p
    * A saída é gerada pelo código oculto, que cria um objeto da classe correspondente à string de entrada e chama o método apropriado para imprimir o nome da flor nacional.
   
 ### Formato de Entrada
+- Uma string representando o nome de um estado (WestBengal, AndhraPradesh, etc.).
