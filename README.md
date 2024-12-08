@@ -10,3 +10,4 @@ Você receberá um código parcialmente implementado no editor, onde o método p
 2. Classes:
    * Você deve implementar as classes e métodos descritos no diagrama fornecido (detalhes no enunciado original do exercício).
 3. Entrada:
+   * O código fornecido para você já lê uma string representando o nome de uma subclasse de State (ex.: WestBengal, AndhraPradesh, etc.).
