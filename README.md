@@ -7,3 +7,4 @@ Você receberá um código parcialmente implementado no editor, onde o método p
 ### Detalhes
 1. Retorno Covariante:
    * Permite que métodos sobrescritos retornem um subtipo do tipo original definido na superclasse.
+2. Classes:
