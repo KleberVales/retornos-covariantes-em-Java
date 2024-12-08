@@ -19,3 +19,5 @@ Você receberá um código parcialmente implementado no editor, onde o método p
 
 ### Formato de Saída
 - O nome da flor nacional daquele estado (ex.: Lily).
+
+### Exemplo de Entrada e Saída
